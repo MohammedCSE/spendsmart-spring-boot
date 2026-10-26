@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SpendSmart
 
 A personal finance tracking REST API built with Java and Spring Boot. Users can record income and expenses, filter transactions, and retrieve a financial summary.
@@ -129,3 +130,6 @@ src/main/java/com/rehan/spendsmart/
 ## Important note
 
 This is a learning project and is not intended to store real financial or banking data.
+=======
+# spendsmart-spring-boot
+>>>>>>> 41bd10b3e57c71182999a04771aced2897d396ce
